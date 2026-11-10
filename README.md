@@ -1,7 +1,5 @@
 # gitrewind
 
-<img width="960" height="540" alt="demo-gitrewind" src="https://github.com/user-attachments/assets/8d386a7b-933b-414a-9d97-d244da7e1938" />
-
 > A time machine for your git mistakes.
 
 You ran `git reset --hard`. You deleted a branch you still needed. Your rebase went wrong. Your work is not gone, but finding it means digging through `git reflog` and dangling objects by hand.
